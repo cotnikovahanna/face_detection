@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Наши выходные данные (они не нужны в Git)
+output/
+*.jpg
+*.png
+*.jpeg
+results/
+
+# IDE (не засоряем репозиторий настройками)
+.vscode/
+.idea/
+*.swp
